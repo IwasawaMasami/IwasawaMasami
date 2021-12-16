@@ -5,7 +5,7 @@
 
 > 🏆 51 Contributions in the Year 2021
  > 
-> 📦 111 Bytes Used in GitHub's Storage 
+> 📦 103 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,5 +64,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
