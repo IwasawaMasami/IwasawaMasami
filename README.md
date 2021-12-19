@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 51 Contributions in the Year 2021
  > 
-> 📦 105 Bytes Used in GitHub's Storage 
+> 📦 106 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +42,20 @@ Sunday       8 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     3 hrs 32 mins       ████████████████████████░   98.71% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
+Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 35 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CloundNative             3 hrs 34 mins       ████████████████████████░   99.24% 
+typecho-in-docker        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
@@ -64,5 +68,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 18/12/2021
+ Last Updated on 19/12/2021
 <!--END_SECTION:waka-->
