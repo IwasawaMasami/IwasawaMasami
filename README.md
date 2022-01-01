@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 51 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
-> 📦 121 Bytes Used in GitHub's Storage 
+> 📦 122 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,5 +67,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
