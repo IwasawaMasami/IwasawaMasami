@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 162 Bytes Used in GitHub's Storage 
+> 📦 163 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +42,21 @@ Sunday       8 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     54 mins             █████████████████████░░░░   85.98% 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CloundNative             54 mins             █████████████████████░░░░   85.98% 
+101                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -64,5 +69,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 12/02/2022 12:13:25 UTC
+ Last Updated on 14/02/2022 12:15:18 UTC
 <!--END_SECTION:waka-->
