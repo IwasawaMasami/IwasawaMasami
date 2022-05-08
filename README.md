@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 1 Contributions in the Year 2022
  > 
-> 📦 147 Bytes Used in GitHub's Storage 
+> 📦 148 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,5 +66,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 06/05/2022 12:18:13 UTC
+ Last Updated on 08/05/2022 12:17:18 UTC
 <!--END_SECTION:waka-->
