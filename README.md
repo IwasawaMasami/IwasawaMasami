@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 1 Contributions in the Year 2022
  > 
-> 📦 182 Bytes Used in GitHub's Storage 
+> 📦 183 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,18 +44,18 @@ Sunday       8 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     7 hrs 5 mins        ████████████████████░░░░░   82.75% 
-Markdown                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.23% 
+YAML                     5 hrs 40 mins       ███████████████████░░░░░░   77.85% 
+Markdown                 1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   22.12% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  8 hrs 34 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 17 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-CloundNative             8 hrs 34 mins       █████████████████████████   100.0%
+CloundNative             7 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  8 hrs 34 mins       █████████████████████████   100.0%
+Windows                  7 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -68,5 +68,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 22/08/2022 12:22:07 UTC
+ Last Updated on 23/08/2022 12:21:28 UTC
 <!--END_SECTION:waka-->
