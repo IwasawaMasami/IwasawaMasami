@@ -7,7 +7,7 @@
 
 > 🏆 1 Contributions in the Year 2022
  > 
-> 📦 250 Bytes Used in GitHub's Storage 
+> 📦 251 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,18 @@ Sunday       8 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     19 mins             ████████████████████████░   97.04% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CloundNative             20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -66,5 +68,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 22/11/2022 12:21:21 UTC
+ Last Updated on 23/11/2022 12:19:38 UTC
 <!--END_SECTION:waka-->
