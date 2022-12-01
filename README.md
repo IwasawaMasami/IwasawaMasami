@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 > 🏆 1 Contributions in the Year 2022
  > 
-> 📦 220 Bytes Used in GitHub's Storage 
+> 📦 221 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,15 +44,13 @@ Sunday       8 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              ████████████░░░░░░░░░░░░░   51.39% 
-Other                    0 secs              ████████████░░░░░░░░░░░░░   48.61%
+Other                    0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-CloundNative             0 secs              ████████████░░░░░░░░░░░░░   51.39% 
-Unknown Project          0 secs              ████████████░░░░░░░░░░░░░   48.61%
+Unknown Project          0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.0%
@@ -68,5 +66,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 30/11/2022 12:20:35 UTC
+ Last Updated on 01/12/2022 12:19:57 UTC
 <!--END_SECTION:waka-->
